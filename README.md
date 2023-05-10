@@ -5,7 +5,7 @@ I am Front End developer.
 --------------------------
 
 *   🌍  I'm based in Bohol, Philippines
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://profile.thezionlab.com/jeramelle.tatad/'>Portfolio</a>
+*   🖥️  See my portfolio at <a href='https://profile.thezionlab.com/jeramelle.tatad/' target="_blank" rel="noopener noreferrer">Portfolio</a>
 *   🧠  Currently learning Next.js
 *   🤝  I'm open to collaborating on interesting projects as a developer
 

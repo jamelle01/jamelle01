@@ -9,7 +9,7 @@ I am Front End developer.
 *   🧠  Currently learning Next.js
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
-![Ryo jamelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamelle01&show_icons=true&theme=dracula&count_private=true)
+![Jeramelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamelle01&show_icons=true&theme=dracula&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamelle01&theme=tokyonight&count_private=true)
 

@@ -32,9 +32,6 @@ I am Front End developer.
 *   🧠  Currently learning Next.js
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
-### Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/{jamelle01}/count.svg)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamelle01" alt="jamelle01" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -50,3 +47,6 @@ I am Front End developer.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamelle01&show_icons=true&locale=en" alt="jamelle01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamelle01&" alt="jamelle01" /></p>
+
+### Profile Visits:
+![Visitor Count](https://profile-counter.glitch.me/{jamelle01}/count.svg)

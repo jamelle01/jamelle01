@@ -48,6 +48,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamelle01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![jamelle01's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamelle01&show_icons=true&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jamelle01&theme=dark)](https://git.io/streak-stats)
 <!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamelle01&show_icons=true&locale=en" alt="jamelle01" /></p> -->
 

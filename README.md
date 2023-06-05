@@ -32,7 +32,7 @@
 - 🧠 Currently learning Next.js
 - 🤝 I'm open to collaborating on interesting projects as a developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamelle01&theme=onedark" alt="jamelle01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamelle01&theme=darkhub" alt="jamelle01" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

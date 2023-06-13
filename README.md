@@ -23,9 +23,8 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Jeramelle Tatad</h1>
-<h3 align="center">A passionate frontend developer from Philippines.</h3>
+<h3 align="center">A passionate frontend developer from Bohol, Philippines.</h3>
 
-- 🌍 I'm based in Bohol, Philippines
 - 🖥️ See my portfolio at <a href='https://profile.thezionlab.com/jeramelle.tatad/' target="_blank" rel="noopener noreferrer">profile.thezionlab.com/jeramelle.tatad</a>
 - 🧠 Currently learning Next.js
 - 🤝 I'm open to collaborating on interesting projects as a developer

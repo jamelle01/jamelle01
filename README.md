@@ -22,7 +22,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{jamelle01}/count.svg)
 -->
 
-<h1 align="center">Hi 👋, I'm Jeramelle Tatad.</h1>
+<h1 align="center">Hi 👋, I'm Jeramelle Tatad</h1>
 <h3 align="center">A passionate frontend developer from Bohol, Philippines.</h3>
 
 - 🖥️ See my portfolio at <a href='https://profile.thezionlab.com/jeramelle.tatad/' target="_blank" rel="noopener noreferrer">profile.thezionlab.com/jeramelle.tatad</a>

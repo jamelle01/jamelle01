@@ -28,6 +28,7 @@
 - 🖥️ See my portfolio at <a href='https://profile.thezionlab.com/jeramelle.tatad/' target="_blank" rel="noopener noreferrer">profile.thezionlab.com/jeramelle.tatad</a>
 - 🧠 Currently learning Next.js and Laravel
 - 🤝 I'm open to collaborating on interesting projects as a developer
+- 👋 Available for freelancing
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamelle01&theme=darkhub" alt="jamelle01" /></a> </p>
 

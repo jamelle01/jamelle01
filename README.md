@@ -1,4 +1,4 @@
-<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeramelle Tatad
+<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeramelle Tatadj
 
 ## A passionate frontend developer from Philippines.
 - 🖥️ See my portfolio at <a href='https://profile.thezionlab.com/jeramelle.tatad/' target="_blank" rel="noopener noreferrer">profile.thezionlab.com/jeramelle.tatad</a>

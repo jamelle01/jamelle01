@@ -34,7 +34,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
- <p align="center"> <a href="https://www.linkedin.com/in/jeramelletatad/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+ <p align="center"> 
+  <a href="https://www.linkedin.com/in/jeramelletatad/" target="_blank" rel="noreferrer"><img    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="https://profile.thezionlab.com/jeramelle.tatad/" target="_blank" rel="noreferrer"><img src="https://github.com/jamelle01/MyResume/blob/master/assets/img/jt_logo.png" width="32" height="32" /></a>
+ </p>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

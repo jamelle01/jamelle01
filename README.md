@@ -170,7 +170,7 @@
                         rel="noreferrer"
                     >
                         <img
-                            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+                            src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"
                             alt="laravel"
                             width="40"
                             height="40"

@@ -317,6 +317,6 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamelle01&" alt="jamelle01" /></p> -->
 
-### Profile Visits:
+<!--### Profile Visits:
 
-<!--![Visitor Count](https://profile-counter.glitch.me/{jamelle01}/count.svg)-->
+[Visitor Count](https://profile-counter.glitch.me/{jamelle01}/count.svg)-->

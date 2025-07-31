@@ -319,4 +319,4 @@
 
 ### Profile Visits:
 
-![Visitor Count](https://profile-counter.glitch.me/{jamelle01}/count.svg)
+<!--![Visitor Count](https://profile-counter.glitch.me/{jamelle01}/count.svg)-->
